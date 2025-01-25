@@ -1,8 +1,7 @@
 # Spam-Email-Detection
 
-#```python
-```
 
+```
     Accuracy: 97.85
     Classification Report:
                    precision    recall  f1-score   support
@@ -14,5 +13,4 @@
        macro avg       0.98      0.93      0.95      1672
     weighted avg       0.98      0.98      0.98      1672
     
-#```python
 ```
