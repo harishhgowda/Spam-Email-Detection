@@ -1,6 +1,6 @@
 # Spam-Email-Detection
 
-```python
+#```python
 ```
 
     Accuracy: 97.85
@@ -14,5 +14,5 @@
        macro avg       0.98      0.93      0.95      1672
     weighted avg       0.98      0.98      0.98      1672
     
-```python
+#```python
 ```
